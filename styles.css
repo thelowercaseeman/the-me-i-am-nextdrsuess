@@ -12,8 +12,9 @@ body {
     font-family: "Caveat", "Pacifico", "Times New Roman", Times, serif;
     font-style: bold;
     color:fuchsia;
-    height: 80px; 
-    width: 200px;
-    border: 10px solid #ff0000;
+    height: 500px; 
+    width: 1000px;
+    border: 25px solid #ff0000;
+    border-radius: 10px;
     overflow: hidden;
 }
