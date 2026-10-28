@@ -34,9 +34,8 @@ body {
     border: 25px dashed #00ff00;
     border-radius: 25px;
     overflow: hidden;
-    margin: 0 auto;
+    margin: 25px;
     padding: 20px;
-    margin-top: 25 px;
 }
 
 .navbar {
