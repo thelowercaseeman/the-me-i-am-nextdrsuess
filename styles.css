@@ -39,3 +39,17 @@ body {
     margin-top: 25 px;
 }
 
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 1000;
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    gap: 40px;
+}
