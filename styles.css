@@ -17,4 +17,6 @@ body {
     border: 25px solid #ff0000;
     border-radius: 10px;
     overflow: hidden;
+    justify-content: center;
+    align-items: center; 
 }
