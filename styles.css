@@ -5,17 +5,17 @@ body {
 .box {
     font-family: "Times New Roman", Times, serif;
     font-style: normal;
-    color: hotpink;
+    color: rgb(0, 165, 14);
 }
 
 .tung {
     font-family: "Caveat", "Pacifico", "Times New Roman", Times, serif;
     font-style: bold;
-    font-size: 50px;
-    color:fuchsia;
+    font-size: 35px;
+    color:rgb(0, 0, 0);
     height: 800px; 
     width: 1400px;
-    border: 25px solid #ff0000;
+    border: 25px dashed #000000;
     border-radius: 25px;
     overflow: hidden;
     margin: 0 auto;
