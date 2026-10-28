@@ -21,3 +21,19 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+
+
+
+.tung2 {
+    font-family: "Caveat", "Pacifico", "Times New Roman", Times, serif;
+    font-style: bold;
+    font-size: 25px;
+    color:rgb(255, 0, 0);
+    height: 350px; 
+    width: 1400px;
+    border: 25px dashed #00ff00;
+    border-radius: 25px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 20px;
+}
