@@ -11,11 +11,12 @@ body {
 .tung {
     font-family: "Caveat", "Pacifico", "Times New Roman", Times, serif;
     font-style: bold;
+    font-size: 15;
     color:fuchsia;
-    height: 500px; 
-    width: 1000px;
+    height: 800px; 
+    width: 1400px;
     border: 25px solid #ff0000;
-    border-radius: 10px;
+    border-radius: 25px;
     overflow: hidden;
-    text-align: center;
+    margin: 0 auto;
 }
