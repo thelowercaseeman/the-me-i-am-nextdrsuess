@@ -18,7 +18,7 @@ body {
     border: 25px dashed #000000;
     border-radius: 25px;
     overflow: hidden;
-    margin: 0 auto;
+    margin: 25px auto;
     padding: 20px;
 }
 
@@ -34,7 +34,7 @@ body {
     border: 25px dashed #00ff00;
     border-radius: 25px;
     overflow: hidden;
-    margin: 25px;
+    margin: 25px auto;
     padding: 20px;
 }
 
