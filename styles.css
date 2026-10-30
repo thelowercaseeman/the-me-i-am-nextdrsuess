@@ -20,6 +20,7 @@ body {
     overflow: hidden;
     margin: 25px auto;
     padding: 20px;
+    background-color: aquamarine;
 }
 
 
@@ -36,31 +37,5 @@ body {
     overflow: hidden;
     margin: 25px auto;
     padding: 20px;
-}
-
-.navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 1000;
-    background-color: black;
-    padding: 15px;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    gap: 40px;
-}
-
-.navbar a {
-    color: rgb(0, 0, 0,);
-    text-decoration: none;
-    font-size: 20px;
-    border: 2px solid red;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 25px;
-    padding-bottom: 40px;
-    border-radius: 8px;
+    background-color: aquamarine;
 }
